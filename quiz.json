@@ -1,0 +1,35 @@
+﻿[
+  {
+    "question": "What is Harbin internationally famous for during the winter?",
+    "options": [
+      "Cherry Blossom Festival",
+      "International Ice and Snow Sculpture Festival",
+      "Dragon Boat Regatta",
+      "Kite Festival"
+    ],
+    "answer": "International Ice and Snow Sculpture Festival",
+    "explanation": "Harbin hosts the world-renowned International Ice and Snow Sculpture Festival every winter."
+  },
+  {
+    "question": "What is the official motto of Harbin Institute of Technology (HIT)?",
+    "options": [
+      "Excellence and Truth",
+      "Strict Standards, Sufficient Effort (规格严格，功夫到家)",
+      "Freedom and Innovation",
+      "Unity and Diligence"
+    ],
+    "answer": "Strict Standards, Sufficient Effort (规格严格，功夫到家)",
+    "explanation": "HIT's motto is '规格严格，功夫到家', reflecting its rigorous academic standards."
+  },
+  {
+    "question": "Which traditional Chinese holiday involves eating Mooncakes and admiring the full moon?",
+    "options": [
+      "Spring Festival",
+      "Mid-Autumn Festival",
+      "Dragon Boat Festival",
+      "Qingming Festival"
+    ],
+    "answer": "Mid-Autumn Festival",
+    "explanation": "The Mid-Autumn Festival celebrates harvest and family reunion with mooncakes."
+  }
+]
